@@ -1,4 +1,4 @@
-# 👋 Komal Ramesh Chougule
+# Hi there! I'am Komal Ramesh Chougule 👋 
 
 <h3 align="center">💻 Aspiring Backend Developer</h3>
 
