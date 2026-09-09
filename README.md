@@ -1,183 +1,116 @@
-## Hi there 👋
+# 👋 Komal Ramesh Chougule
 
-# 👋 Hi, I'm Komal Ramesh Chougule
+<h3 align="center">💻 Aspiring Backend Developer</h3>
 
-### 💻 Aspiring Backend Developer | BSc Computer Science Graduate
-
-I am **Komal Ramesh Chougule**, a passionate Computer Science graduate with a strong interest in **Backend Development**.
-
-I have completed my **BSc in Computer Science from MIT ACSC, Alandi**. I enjoy building applications, working with databases, and learning new technologies.
+<p align="center">
+  BSc Computer Science | MIT ACSC, Alandi
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 **Degree:** BSc Computer Science
-- 🏫 **College:** MIT ACSC, Alandi
-- 💡 **Interested In:** Backend Development
-- 🚀 **Projects Completed:** 4
-- 🌱 **Currently Learning:** Java Backend Development
-- 📍 **Location:** Maharashtra, India
+Hello! I'm **Komal Ramesh Chougule**, a BSc Computer Science graduate from **MIT ACSC, Alandi**.
+
+I am passionate about **Backend Development** and interested in building efficient and scalable applications using Java, Spring Boot, and databases.
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages
-- Java
-- JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vuedotjs" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Cassandra-purple?style=for-the-badge&logo=apachecassandra" />
+  <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven" />
+</p>
+
+---
+
+# 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+A personal portfolio website created to showcase my profile, skills and projects.
+
+**Tech Stack:**
 - HTML
 - CSS
 
-### Backend
+</td>
+
+<td width="50%">
+
+### 🌤️ Weather Application
+
+A web application that displays weather information using JavaScript.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Student Management System
+
+A full-stack application for managing student records with CRUD operations.
+
+**Tech Stack:**
+- React.js
 - Java
 - Spring Boot
-- REST API
-- Maven
+- MySQL
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
+</td>
+
+<td width="50%">
+
+### 📈 Stock Market Data Aggregation Service
+
+A backend-oriented service for collecting, processing and storing stock market data.
+
+**Tech Stack:**
 - Vue.js
-
-### Databases
-- MySQL
-- Apache Cassandra
-
-### Tools
-- Git
-- GitHub
-- Maven
-
----
-
-# 📂 Projects
-
-## 1. 🌐 Portfolio Website
-
-**Technologies:** HTML, CSS
-
-A personal portfolio website created to showcase my profile, skills, projects, and professional information.
-
-### Technologies Used
-- HTML
-- CSS
-
----
-
-## 2. 🌤️ Weather Application
-
-**Technologies:** HTML, CSS, JavaScript
-
-A weather application developed with a simple and user-friendly interface for displaying weather information.
-
-### Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-### Key Features
-- Weather information
-- Search functionality
-- Dynamic data display
-- Responsive user interface
-
----
-
-## 3. 🎓 Student Management System
-
-**Technologies:** React.js, Java, Spring Boot, MySQL
-
-A full-stack Student Management System developed to manage student information efficiently.
-
-### Technologies Used
-- React.js
 - Java
 - Spring Boot
-- MySQL
+- Apache Cassandra
+- Maven
 
-### Key Features
-- Add student details
-- View student details
-- Update student information
-- Delete student records
-- REST API integration
-- MySQL database integration
-
-### Architecture
-
-text
-React.js
-    ↓
-REST API
-    ↓
-Spring Boot
-    ↓
-Java
-    ↓
-MySQL
-
-**komal-c2001/komal-c2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# 4 Stock Market Data Aggregation Service
-
-## 📌 Project Overview
-
-The **Stock Market Data Aggregation Service** is a backend-oriented application designed to collect, process, and store stock market data efficiently.
-
-The project uses **Java and Spring Boot** for backend development, **Apache Cassandra** for handling and storing large volumes of data, and **Vue.js** for the frontend. **Maven** is used for project and dependency management.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies Used
+## 🎯 Career Objective
 
-- **Frontend:** Vue.js
-- **Backend:** Java, Spring Boot
-- **Database:** Apache Cassandra
-- **Build Tool:** Maven
+I am looking for an opportunity as a **Backend Developer / Java Backend Developer** where I can use my technical skills, learn new technologies, and contribute to real-world projects.
 
 ---
 
-## 🏗️ Project Architecture
+## 📫 Contact
 
-```text
-              ┌───────────────┐
-              │    Vue.js     │
-              │   Frontend    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   REST APIs   │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │ Spring Boot   │
-              │   Backend     │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │     Java      │
-              │ Business Logic│
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │    Apache     │
-              │   Cassandra   │
-              └───────────────┘
+**Komal Ramesh Chougule**
 
+🎓 BSc Computer Science  
+💻 Aspiring Backend Developer  
+📍 Maharashtra, India
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my profile! ⭐
+</p>
