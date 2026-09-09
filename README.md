@@ -14,7 +14,7 @@
 I'm a passionate **Computer Science graduate** with a strong interest in **Backend Development**. I enjoy building applications, working with databases, and learning new technologies.
 
 - 🎓 **Education:** BSc Computer Science
-- 🏫 **College:** MIT ACSC, Alandi
+-🎓 Currently Pursuing:** MCA – MES IMCC College
 - 💻 **Interested In:** Backend Development
 - 🌱 **Currently Learning:** Java, Spring Boot, REST APIs
 - 🚀 **Projects Completed:** 4
